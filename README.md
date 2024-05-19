@@ -1,6 +1,6 @@
 # Projeto EBOOKs Gerados por I.A.s
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual sou aluno oferecido pela empresa DIO através do Banco Santander (Santander 2024 - Fundamentos de IA para Devs)
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido como parte do curso ‘Santander 2024 - Fundamentos de IA para Devs’, no qual estou matriculado. O curso é oferecido pela DIO em parceria com o Banco Santander, visando capacitar desenvolvedores nas bases da inteligência artificial.
 
 Projeto com o objetivo desenvolver um ebook digital utilizando as capacidades das ferramentas de IA.
 
